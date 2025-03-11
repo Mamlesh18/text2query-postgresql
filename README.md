@@ -38,4 +38,18 @@ DATABASE = {
     "password": "your_password",
     "host": "localhost",
     "port": 5432
-}```
+}
+```
+
+## Step 5: Run the Application
+Start the application by running:
+
+```
+python app.py
+```
+
+## Step 6: Ask Your Text Question
+Once the application is running, ask your question directly in the terminal:
+```
+> how many model are there in garage?
+```
