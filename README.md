@@ -1,6 +1,6 @@
 # 🏆 **Text-to-SQL Query Generator with Advanced Data Analysis**
 
-![Project Banner](assets/banner.png)  
+![Project Banner](assets/pic_u.jpg)  
 *Transforming Natural Language into SQL Queries Instantly!*
 
 ---
