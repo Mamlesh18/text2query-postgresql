@@ -100,25 +100,19 @@ The AI will generate and execute the respective SQL query, fetching the results 
 ## 🖼️ **Screenshots**
 
 ### **1️⃣ Text-to-SQL Query Conversion**
-![Query Conversion](assets/analyse.jpg)  
+![Query Conversion](assets/conversion.jpg)  
 *User input transformed into an SQL query.*
 
 ### **2️⃣ Query Execution & Output**
-![Query Output](assets/conversion.jpg)  
+![Query Output](assets/output.jpg)  
 *Executing the generated SQL query in PostgreSQL.*
 
 ### **3️⃣ AI-Powered Data Analysis with LangChain**
-![Large-Scale Analysis](assets/output.jpg)  
+![Large-Scale Analysis](assets/analysis.jpg)  
 *Retrieving and analyzing large datasets seamlessly.*
 
 ---
 
-## 🎥 **Demo Video**
-Watch our AI-powered SQL tool in action:
-
-![Demo Video](assets/demo_video.gif)
-
----
 
 ## 💡 **Why Use Text-to-SQL AI?**
 ✅ **No SQL Knowledge Required** – Convert plain text into queries.  
@@ -129,7 +123,7 @@ Watch our AI-powered SQL tool in action:
 ---
 
 ## 📩 **Contact & Support**
-📧 Email: your.email@example.com  
-🌐 Website: [Your Project Website](https://yourwebsite.com)  
+📧 Email: mamlesh.va06@gmail.com | nishyanthnandagopal@gmail.com
+ 
 
 🔹 *Join us in revolutionizing database interactions with AI!* 🚀
