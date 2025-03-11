@@ -116,7 +116,6 @@ The AI will generate and execute the respective SQL query, fetching the results 
 
 ## 💡 **Why Use Text-to-SQL AI?**
 ✅ **No SQL Knowledge Required** – Convert plain text into queries.  
-✅ **Instant Execution** – Run queries directly on PostgreSQL.  
 ✅ **Handles Large Datasets** – Analyze massive tables efficiently.  
 ✅ **AI-Driven Optimization** – LangChain enhances query accuracy.  
 
