@@ -1,3 +1,22 @@
+# Project Title
+
+![Project Image](path/to/your/image.png)
+
+## Overview
+This project is a cutting-edge application that leverages the power of OpenAI's GPT models, PostgreSQL for database management, and advanced AI agents to provide intelligent and dynamic responses to user queries. By integrating LangChain graphs and AI agents, the application offers a seamless and efficient way to interact with data and generate insights. Whether you're querying a database or asking complex questions, this tool is designed to deliver accurate and context-aware results.
+
+---
+
+# Project Setup
+
+## Step 1: Install Python 3.9 or Higher
+Download and install Python from the official website: [https://www.python.org/downloads/](https://www.python.org/downloads/)
+
+## Step 2: Install Dependencies
+Run the following command to install the required dependencies:
+
+```bash
+pip install -r requirements.txt
 # Project Setup
 
 ## Step 1: Install Python 3.9 or Higher
