@@ -1,4 +1,4 @@
-# 🏆 **Text-to-SQL Query Generator with Advanced Data Analysis**
+# 🏆 **AI-Powered Text-to-SQL Generator for PostgreSQL Databases**
 
 ![Project Banner](assets/pic.png)  
 *Transforming Natural Language into SQL Queries Instantly!*
@@ -12,7 +12,8 @@ Welcome to the **Text-to-SQL Query Generator**, a cutting-edge tool that transfo
 But that's not all! Our project goes beyond simple query generation. With the integration of **LangChain**, we enable advanced data analysis capabilities, allowing you to fetch and analyze data from tables with millions or even billions of rows and columns. Whether you're a data scientist, analyst, or developer, this tool is designed to make your life easier.
 
 ### **Key Highlights:**
-✔️ Convert **simple text inputs** into SQL queries effortlessly.    
+✔️ Convert **simple text inputs** into SQL queries effortlessly.  
+✔️ Execute queries instantly on **PostgreSQL databases**.  
 ✔️ Analyze and fetch data from **millions or even billions of rows**.  
 ✔️ **LangChain-powered** AI model for enhanced database interaction.  
 ✔️ Boosts efficiency by eliminating SQL query writing bottlenecks.  
@@ -116,6 +117,7 @@ The AI will generate and execute the respective SQL query, fetching the results 
 
 ## 💡 **Why Use Text-to-SQL AI?**
 ✅ **No SQL Knowledge Required** – Convert plain text into queries.  
+✅ **Instant Execution** – Run queries directly on PostgreSQL.  
 ✅ **Handles Large Datasets** – Analyze massive tables efficiently.  
 ✅ **AI-Driven Optimization** – LangChain enhances query accuracy.  
 
